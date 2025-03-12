@@ -1,0 +1,11 @@
+### Criar pedido
+POST http://localhost:8080/order
+Content-Type: application/json
+
+{
+  "customer_name": "Jonatas Carvalho",
+  "total_amount": 100.50
+}
+
+### Listar pedidos
+GET http://localhost:8080/order
