@@ -5,7 +5,7 @@
 ## Como rodar
 
 - rodar o comando:
-  - docker compose up --build 
+  - docker compose up -d 
 
 - após o docker terminar a execução basta rodar o comando:
   - go run main.go
