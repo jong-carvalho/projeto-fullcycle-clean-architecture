@@ -1,8 +1,8 @@
 package graphql
 
 import (
-	"orders-service/models"
-	"orders-service/services"
+	"projeto-fullcycle-clean-architecture/models"
+	"projeto-fullcycle-clean-architecture/services"
 )
 
 type Resolver struct{}
