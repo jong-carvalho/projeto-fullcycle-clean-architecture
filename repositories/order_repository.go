@@ -1,8 +1,8 @@
 package repositories
 
 import (
-	"orders-service/config"
-	"orders-service/models"
+	"projeto-fullcycle-clean-architecture/config"
+	"projeto-fullcycle-clean-architecture/models"
 )
 
 func GetOrders() []models.Order {

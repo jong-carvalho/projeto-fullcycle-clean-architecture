@@ -1,8 +1,8 @@
 package services
 
 import (
-	"orders-service/models"
-	"orders-service/repositories"
+	"projeto-fullcycle-clean-architecture/models"
+	"projeto-fullcycle-clean-architecture/repositories"
 )
 
 func ListOrders() []models.Order {

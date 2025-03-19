@@ -1,4 +1,4 @@
-module orders-service
+module projeto-fullcycle-clean-architecture
 
 go 1.23
 
